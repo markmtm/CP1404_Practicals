@@ -18,7 +18,7 @@ numbers[-1] = 1
 print(numbers)
 
 #3
-print(numbers[2:len(numbers)+1])
+print(numbers[2:])
 
 #4
 print(9 in numbers)
